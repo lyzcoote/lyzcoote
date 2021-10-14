@@ -2,7 +2,7 @@
 # Something about me ^w
  - Name: Flavio
  - Username: Lyz
- - Pronouns: he/him.
+ - Pronouns: He/Him.
  - Nationality: Italy
  - Age: 19 years old
  - Hobbies: IT and Tech in general, music, cars, indie games, fantasy stories
