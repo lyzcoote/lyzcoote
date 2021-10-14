@@ -25,12 +25,12 @@
  - Other:
 [<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />](https://www.docker.com/) [<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />](https://www.spotify.com/) [<img alt="Ungoogled Chromium" src="https://img.shields.io/badge/Ungoogled%20Chromium-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />](https://github.com/Eloston/ungoogled-chromium) [<img alt="DuckDuckGo" src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white" />](https://duckduckgo.com) [<img alt="GitHub Desktop" src="https://img.shields.io/badge/github%20desktop-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://desktop.github.com/)
 
-<!--
+
 # About my fursona 👀
  - Yea, I'm furry if you couldn't notice :p 
  - Also yea, Protogen because, why not? xD
 <img alt="lyz's fursona" src="https://i.imgur.com/GBgDbIj.png"/>
--->
+
 
 
 
