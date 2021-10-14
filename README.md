@@ -15,7 +15,7 @@
 # About my fursona 👀
  - Yea, I'm furry if you couldn't notice :p 
  - Also yea, Protogen because, why not? xD
- - <img alt="lyz's fursona" src="https://i.imgur.com/GBgDbIj.png"/>
+<img alt="lyz's fursona" src="https://i.imgur.com/GBgDbIj.png"/>
 
 
 
