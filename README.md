@@ -6,6 +6,8 @@
  - Nationality: Italy
  - Age: 19 years old
  - Hobbies: IT and Tech in general, music, cars, indie games, fantasy stories
+ - Student at: Università degli Studi di Roma Tor Vergata
+ - Studying: IT and Programming
  
 
 # Programming Language Knownledge (aside from HTML, that's not a language xd)
