@@ -4,10 +4,9 @@
  - Username: Lyz
  - Pronouns: He/Him.
  - Nationality: Italy
- - Age: 19 years old
+ - Age: 20 years old
  - Hobbies: IT and Tech in general, music, cars, indie games, fantasy stories
- - Student at: Università degli Studi di Roma Tor Vergata
- - Studying: IT and Programming
+ - Studying: IT, Programming, Networking and 3D Modelling
  
 
 # Programming Language Knownledge (aside from HTML, that's not a language xd)
