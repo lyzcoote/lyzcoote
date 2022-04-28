@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Something about me ^w
- - 🔭 I’m currently working on: Making structures and models  
+ - 🔭 I’m currently working on: Making 3D structures and models
  - 🌱 I’m currently learning: Unity, Blender and CCNA
  - 📫 How to reach me: Via clicking the Telegram or Discord button below!
  - 😄 Pronouns: He/Him
