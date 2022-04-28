@@ -15,7 +15,7 @@
  - IDEs:
 [<img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" />](https://www.jetbrains.com/clion/) [<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />](https://www.jetbrains.com/idea/) [<img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"/>](https://www.jetbrains.com/phpstorm/) [<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>](https://www.jetbrains.com/pycharm/) [<img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" />](https://www.sublimetext.com/) [<img alt="Visual Studio Code" src="https://img.shields.io/badge/Code%20OSS-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />](https://github.com/Microsoft/vscode)
  - OS:
-[<img src="https://img.shields.io/badge/Arch_Linux-gray?style=for-the-badge&logo=arch-linux" alt="Arch Linux"/>]
+<img src="https://img.shields.io/badge/Arch_Linux-gray?style=for-the-badge&logo=arch-linux" alt="Arch Linux"/>
 [<img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows" alt="Windows"/>]
  - Phone:
 [<img alt="Xiaomi" src="https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white" />](https://www.mi.com/)
