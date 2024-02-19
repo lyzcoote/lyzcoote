@@ -6,7 +6,6 @@
  - 😄 Pronouns: He/They
  - ⚡ Hobbies: IT/Tech, music, cars, indie games, fantasy stories, modding and tinkering!
  - 🕓 Age: 21 years old
- - 🌐 Websites: [Bio](https://bio.lyzcoote.gay) and [Blog](https://blog.lyzcoote.gay)
  
 
 # Programming Language Knownledge
