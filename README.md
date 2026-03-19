@@ -5,7 +5,7 @@
  - 📫 How to reach me: Via clicking the Telegram or Discord button below!
  - 😄 Pronouns: He/They
  - ⚡ Hobbies: IT/Tech, music, cars, indie games, fantasy stories, modding and tinkering!
- - 🕓 Age: 21 years old
+ - 🕓 Age: 24 years old
  
 
 # Programming Language Knownledge
